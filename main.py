@@ -7,7 +7,6 @@ books = {
 }
 #добавление новых книг
 book_add = len(books) + 1
-
 #цикл while
 while True:
     title = input("Введите название книги: ")
